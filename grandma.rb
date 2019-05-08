@@ -14,3 +14,4 @@ def speak_to_grandma(phrase)
   if phrase == phrase.downcase
     puts "Huh?! SPEAK UP, SONNY!"
   end
+end
