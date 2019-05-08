@@ -5,8 +5,7 @@
 # unless you shout it (type in all capitals).
 
 # If you shout, she can hear you (or at least she thinks so) 
-# and yells back
-
+# and yells backhttps://github.com/learn-co-curriculum/speaking-grandma/tree/solution
 # NO, NOT SINCE 1938!
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
